@@ -74,7 +74,7 @@ def pipeline(path):
                 emotion_score = round(emotion_result.max(), 2)
                 
                 text_face = '{} : {:.0f} %'.format(face_name,100*face_score)
-                text_emotion = '{} : {:.0f} %'.format(emotion_name,emotion_score)
+                text_emotion = '{} : {:.0f} %'.format(emotion_name,100*emotion_score)
                 cv2.putText(image,text_face,(startx,starty),cv2.FONT_HERSHEY_PLAIN,2,(0,255,0),2)
                 cv2.putText(image,text_emotion,(startx,endy),cv2.FONT_HERSHEY_PLAIN,2,(255,255,255),2)
                 
