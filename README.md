@@ -1,11 +1,13 @@
 # Face-Recognition
 
-## Results
+### Results
+<table><tr>
+<td> <img src= "https://github.com/Manav916/Face-Recognition/assets/77217074/b5e66f6b-1056-40dd-83a1-e49ebf82fc5b" width="100%" align="center"  hspace="5%" vspace="5%"/> </td>
+<td> <img src= "https://github.com/Manav916/Face-Recognition/assets/77217074/1586fbb7-7e59-4ebd-a881-c512af2b7d2e" width="100%" align="center"  hspace="5%" vspace="5%"/> </td>
+</tr></table>
 
 
-https://github.com/Manav916/Face-Recognition/assets/77217074/c2751d2d-8d34-422a-a8b4-ca88c35cc592
+![face_analysis_web_app](https://github.com/Manav916/Face-Recognition/assets/77217074/b5e66f6b-1056-40dd-83a1-e49ebf82fc5b)
 
 
-
-https://github.com/Manav916/Face-Recognition/assets/77217074/45a3a8bc-8711-4c79-a45a-d595e19b7a6d
-
+![real_time_face_detection](https://github.com/Manav916/Face-Recognition/assets/77217074/1586fbb7-7e59-4ebd-a881-c512af2b7d2e)
