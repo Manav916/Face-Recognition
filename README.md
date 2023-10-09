@@ -61,13 +61,20 @@ To run this project locally, follow these steps:
    pip install -r requirements.txt
    ```
 
-4. Run the Django development server:
+4. Get SECRET_KEY:
+
+   ```
+   from django.core.management.utils import get_random_secret_key
+   print(get_random_secret_key())
+   ```
+
+5. Run the Django development server:
 
    ```
    python manage.py runserver
    ```
 
-5. Access the web application by opening a web browser and entering the following URL:
+6. Access the web application by opening a web browser and entering the following URL:
 
    ```
    http://localhost:8000/
